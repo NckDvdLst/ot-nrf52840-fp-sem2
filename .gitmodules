@@ -1,3 +1,3 @@
 [submodule "openthread"]
 	path = openthread
-	url = https://github.com/NckDvdLst/openthread-pqc.git
+	url = https://github.com/NckDvdLst/openthread-fp-sem2.git
